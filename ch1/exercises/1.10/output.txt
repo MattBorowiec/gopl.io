@@ -1,0 +1,4 @@
+0.67s   159137  http://sony.com
+1.31s   607071  http://amazon.com
+1.48s   392961  http://youtube.com
+1.48s elapsed
